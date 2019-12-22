@@ -3,9 +3,10 @@ def oxford_comma(array=[])
       array=("kiwi") 
       array.to_str 
       string = "kiwi"
-      string << (",durian").split
+      array << (",") << ("durian")
       string = "kiwi, durian"
-      
+      string.ar 
+      array = ("kiwi, durian")
     end 
 
           
