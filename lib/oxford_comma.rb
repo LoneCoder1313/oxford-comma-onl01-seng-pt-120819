@@ -1,8 +1,7 @@
-def oxford_comma(array=[])
+def oxford_comma(array=[..])
     array.unshift("kiwi")
-      array=("kiwi"..)
-      if string= "kiwi,durian".split(",")
-        array = ("kiwi", "durian")
+      array=("kiwi".."and pomelos")
+      ()
       end 
     end 
 
