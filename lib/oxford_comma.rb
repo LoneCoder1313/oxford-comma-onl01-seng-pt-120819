@@ -3,6 +3,8 @@ def oxford_comma(array=[])
       array=("kiwi") 
       array.to_string 
       string = "kiwi"
+      string << ("durian").split(",")
+      string = "kiwi"
       
     end 
 
