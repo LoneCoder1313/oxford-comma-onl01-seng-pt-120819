@@ -6,7 +6,6 @@ def oxford_comma(array=[])
       return [0]
       elsif 
     end 
-    array.inspect 
 end              
 end 
 
