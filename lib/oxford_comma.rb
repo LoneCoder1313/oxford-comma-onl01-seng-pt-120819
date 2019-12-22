@@ -5,7 +5,7 @@ def oxford_comma(array=[])
       string = "kiwi"
       array << (",") << ("durian")
       string = "kiwi, durian"
-      string.ar 
+      string.to_a
       array = ("kiwi, durian")
     end 
 
