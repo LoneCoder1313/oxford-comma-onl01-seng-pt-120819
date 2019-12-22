@@ -2,7 +2,11 @@ def oxford_comma(array=[])
        data= "kiwi, durian, starfruit, mangos, dragon fruits, lychees, and pomelos"
     array.unshift("kiwi")
       array=("kiwi") 
-      if array 
-      
+      if array < data do 
+        array << (",")+("and")
+      while array << ("durian")
+      puts ("kiwi", "durian")
+    end 
+    and 
       end 
           
