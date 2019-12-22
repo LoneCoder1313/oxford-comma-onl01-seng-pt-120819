@@ -4,7 +4,7 @@ def oxford_comma(array=[])
        array =("kiwi")
     if array.length ==1 
       return [0]
-      elsif array.unshfit("durian")
+      elsif 
     end 
     array.inspect 
 end              
